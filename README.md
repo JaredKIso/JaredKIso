@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Cyber Security**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/JaredKIso)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/JaredKIso?tab=repositories)**
 
 - ⚡ Fun fact **I enjoy reading books and I also enjoy gaming**
 
