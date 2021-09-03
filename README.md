@@ -60,3 +60,4 @@
     <img src="https://komarev.com/ghpvc/?username=JaredKIso">
 </a>
 <a href="https://github.com/JaredKIso?tab=followers"><img src="https://img.shields.io/github/followers/JaredKIso?label=My%20%20Followers&style=social" alt="GitHub Badge"></a>
+![](https://komarev.com/ghpvc/?username=JaredKIso&style=flat)
