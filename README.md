@@ -55,9 +55,6 @@
 
 </p>
 
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=JaredKIso">
-</a>
+## ❤ Followers
 <a href="https://github.com/JaredKIso?tab=followers"><img src="https://img.shields.io/github/followers/JaredKIso?label=My%20%20Followers&style=social" alt="GitHub Badge"></a>
-![](https://komarev.com/ghpvc/?username=JaredKIso&style=flat)
+</a>
