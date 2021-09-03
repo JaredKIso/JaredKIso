@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/jd93pZA.png" height="150px"/></a>
 
 <h1 align="center">Hello <img src="https://c.tenor.com/4kIHjPaMiDoAAAAi/the-blobs-live-on-waving.gif" width="30px">, I am Jared!</h1>
-<h3 align="center">I am a Cyber Security student who is just passionate for learning how to do things the lazy way.</h3>
+<h3 align="center">I am a Cyber Security student who is just passionate for learning how to do things the efficient way.</h3>
 
 
 ## 🙋‍♂️ About Me
