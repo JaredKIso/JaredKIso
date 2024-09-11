@@ -17,19 +17,22 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a style="padding-right:8px;" href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a style="padding-right:8px;" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://img.icons8.com/?size=45&id=20909&format=png&color=000000"/> </a>
     <a style="padding-right:8px;" href="https://savannah.gnu.org/projects/bash/" target="_blank"> <img src="https://img.icons8.com/plasticine/50/000000/bash.png"/>
-    <a style="padding-right:8px;" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://img.icons8.com/material-outlined/50/000000/html.png"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000"/> </a> 
+    <a style="padding-right:8px;" href="https://www.powershellgallery.com/" target="_blank"> <img src="https://img.icons8.com/?size=45&id=59500&format=png&color=000000"/>
 </p>
 
 ## 🚀 Wanting to learn:
 <p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a style="padding-right:8px;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a style="padding-right:8px;" href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
+    <a style="padding-right:8px;" href="https://cplusplus.com/" target="_blank"> <img src="https://img.icons8.com/?size=45&id=40669&format=png&color=000000"/> </a>
+    <a style="padding-right:8px;" href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=uJM6fQYqDaZK&format=png&color=000000"/> </a>
+    <a style="padding-right:8px;" href="https://en.wikipedia.org/wiki/CSS" target="_blank"> <img src="https://img.icons8.com/?size=45&id=3BTBsJs5myRy&format=png&color=000000"/> </a>
+    <a style="padding-right:8px;" href="https://tailwindcss.com/" target="_blank"> <img src="https://img.icons8.com/?size=45&id=4PiNHtUJVbLs&format=png&color=000000"/> </a>
+    
 </p>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
