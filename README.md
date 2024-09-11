@@ -1,18 +1,18 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/jd93pZA.png" height="150px"/></a>
 
 <h1 align="center">Hello <img src="https://c.tenor.com/4kIHjPaMiDoAAAAi/the-blobs-live-on-waving.gif" width="30px">, I am Jared!</h1>
-<h3 align="center">I am a Cyber Security student who is just passionate for learning how to do things the efficient way.</h3>
+<h3 align="center">I am a Cyber Security graduate who is working in Azure Cloud Architecture. I am also learning how to join the FOSS community more :)! </h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Studying at Secure Set**
+- 🔭 I’m currently working on: **Contrubuting to the FOSS community**
 
-- 🌱 I’m currently learning **Cyber Security**
+- 🌱 I’m currently learning: **Azure Architecture as well as Bash and PowerShell scripting**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/JaredKIso?tab=repositories)**
+- 👨‍💻 All of my projects are available at: **[My Portfolio](https://github.com/JaredKIso?tab=repositories)**
 
-- ⚡ Fun fact **I enjoy reading books and I also enjoy gaming**
+- ⚡ Fun fact: **I enjoy reading and gaming when I can!**
 
 ## 🚀 Languages and Tools:
 
