@@ -48,7 +48,7 @@ Currently building a modular app ecosystem called **Mind City**, where each app 
 ![React (Web)](https://img.shields.io/badge/-React_(Web)-61DAFB?style=flat&logo=react&logoColor=black)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=orange) # Possibly
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=orange)
 ![Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white)
 
