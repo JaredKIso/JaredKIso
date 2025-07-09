@@ -1,64 +1,78 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/jd93pZA.png" height="150px"/></a>
+<!-- GitHub Profile: IsoBliss -->
 
-<h1 align="center">Hello <img src="https://c.tenor.com/4kIHjPaMiDoAAAAi/the-blobs-live-on-waving.gif" width="30px">, I am Jared!</h1>
-<h3 align="center">I am a Cyber Security graduate who is working in Azure Cloud Architecture. I am also learning how to join the FOSS community more :)! </h3>
-
-
-## 🙋‍♂️ About Me
-
-- 🔭 I’m currently working on: **Contrubuting to the FOSS community**
-
-- 🌱 I’m currently learning: **Azure Architecture as well as Bash and PowerShell scripting**
-
-- 👨‍💻 All of my projects are available at: **[My Portfolio](https://github.com/JaredKIso?tab=repositories)**
-
-- ⚡ Fun fact: **I enjoy reading and gaming when I can!**
-
-## 🚀 Languages and Tools:
-
-<p align="left"> 
-    <a style="padding-right:8px;" href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://img.icons8.com/?size=45&id=20909&format=png&color=000000"/> </a>
-    <a style="padding-right:8px;" href="https://savannah.gnu.org/projects/bash/" target="_blank"> <img src="https://img.icons8.com/plasticine/50/000000/bash.png"/>
-    <a style="padding-right:8px;" href="https://www.powershellgallery.com/" target="_blank"> <img src="https://img.icons8.com/?size=45&id=59500&format=png&color=000000"/>
+<h1 align="center">✨ IsoBliss ✨</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Building+Mind+City...;Crafting+Gamified+Real+Life;Dev+%7C+Creative+%7C+Focused+Growth" alt="Typing SVG" />
 </p>
-
-## 🚀 Wanting to learn:
-<p align="left"> 
-    <a style="padding-right:8px;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a style="padding-right:8px;" href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-    <a style="padding-right:8px;" href="https://cplusplus.com/" target="_blank"> <img src="https://img.icons8.com/?size=45&id=40669&format=png&color=000000"/> </a>
-    <a style="padding-right:8px;" href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=uJM6fQYqDaZK&format=png&color=000000"/> </a>
-    <a style="padding-right:8px;" href="https://en.wikipedia.org/wiki/CSS" target="_blank"> <img src="https://img.icons8.com/?size=45&id=3BTBsJs5myRy&format=png&color=000000"/> </a>
-    <a style="padding-right:8px;" href="https://tailwindcss.com/" target="_blank"> <img src="https://img.icons8.com/?size=45&id=4PiNHtUJVbLs&format=png&color=000000"/> </a>
-    
-</p>
-
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
 
 <p align="center">
-    <a href="https://github.com/JaredKIso/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JaredKIso&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+  <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" width="100%" style="border-radius: 8px;" alt="Lofi coding vibes banner"/>
 </p>
 
-## 📊 My Github Stats
+---
 
-  <br/>
-    <a href="https://github.com/JaredKIso/github-readme-stats"><img alt="Jared's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JaredKIso&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/JaredKIso/github-readme-stats"><img alt="Jared's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaredKIso&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
+### 👋 Hey there
 
-## Connect with me:
-<p align="left">
+Welcome to my little corner of the internet.  
+I’m **IsoBliss** — blending creativity, systems design, and self-growth into digital form.  
+Currently building a modular app ecosystem called **Mind City**, where each app helps level up real-life skills like:
 
-<a href = "https://www.linkedin.com/in/jared-kell/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/owl.lite_photography/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+- 🏋️‍♂️ **Fitness** (Workout Tracker)
+- 🍱 **Nutrition** (Macro/Meal Logging)
+- 💸 **Finances** (Budgeting + Debt Systems)
+- 🧠 **Knowledge** (Note-Taking + PKM)
+- 🌆 All visualized in a gamified Sims-like city.
 
-</p>
+---
 
-## ❤ Followers
-<a href="https://github.com/JaredKIso?tab=followers"><img src="https://img.shields.io/github/followers/JaredKIso?label=My%20%20Followers&style=social" alt="GitHub Badge"></a>
-</a>
+### 🧩 Current Projects
+
+| App | Description | Tech Stack |
+|-----|-------------|------------|
+| **🏋️ IsoWorkout** | Tracker for strength & physique progress | React Native + Firebase |
+| **🍽️ IsoFuel** | Macro/meal tracker built for bulk & cut | Flutter + SQLite |
+| **💸 IsoLedger** | Financial ecosystem for real-time tracking | Tauri + Rust |
+| **🧠 IsoNotes** | Local-first PKM w/ graph view & gamification | Electron + TypeScript |
+| **🧠 Mind City** | Main gamified dashboard & progression engine | Unreal Engine 5 (future) |
+
+---
+
+### 🛠️ Tech & Tools
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=orange)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
+![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+
+---
+
+### 🎯 Personal Mission
+
+> “Build tools that gamify real life. Empower others to level up like a character sheet.”
+
+I’m blending fitness, finances, knowledge, and self-discipline into an interactive ecosystem — a space where self-development feels like play.
+
+---
+
+### 🌐 Connect with Me (Coming Soon)
+
+| Platform | Handle | Status |
+|----------|--------|--------|
+| YouTube | `@IsoBliss` | 🔜 Content Coming |
+| Blog | `isobliss.dev` | 🛠️ Building Now |
+| Discord | `IsoDevHub` | 🎉 Launching Soon |
+| Twitter/X | `@IsoBliss_` | 👀 Reserved |
+
+---
+
+### 🧠 Fun Extras
+
+```bash
+$ whoami
+> Creative Dev | Fitness Nerd | System Builder | LoFi Coder
+
+$ motto
+> Build better systems. Build a better self.
