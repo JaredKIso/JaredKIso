@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" width="100%" style="border-radius: 8px;" alt="Lofi coding vibes banner"/>
+  <img src="https://raw.githubusercontent.com/JaredKIso/JaredKIso/refs/heads/master/image2.png" width="100%" style="border-radius: 8px;" alt="Lofi coding vibes banner"/>
 </p>
 
 ---
