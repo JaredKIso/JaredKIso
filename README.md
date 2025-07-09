@@ -31,21 +31,26 @@ Currently building a modular app ecosystem called **Mind City**, where each app 
 |-----|-------------|------------|
 | **🏋️ IsoWorkout** | Tracker for strength & physique progress | React Native + Firebase |
 | **🍽️ IsoFuel** | Macro/meal tracker built for bulk & cut | Flutter + SQLite |
-| **💸 IsoLedger** | Financial ecosystem for real-time tracking | Tauri + Rust |
+| **💸 IsoLedger** | Financial ecosystem for real-time tracking | Tauri + Rust | # Still Determining language.
 | **🧠 IsoNotes** | Local-first PKM w/ graph view & gamification | Electron + TypeScript |
-| **🧠 Mind City** | Main gamified dashboard & progression engine | Unreal Engine 5 (future) |
+| **🧠 Mind City** | Main gamified dashboard & progression engine | Unity (future) |
 
 ---
 
 ### 🛠️ Tech & Tools
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=orange)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/-Expo-000020?style=flat&logo=expo&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![React (Web)](https://img.shields.io/badge/-React_(Web)-61DAFB?style=flat&logo=react&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=orange) # Possibly
 ![Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white)
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
 ---
 
@@ -72,7 +77,7 @@ I’m blending fitness, finances, knowledge, and self-discipline into an interac
 
 ```bash
 $ whoami
-> Creative Dev | Fitness Nerd | System Builder | LoFi Coder
+> Creative Dev | Mental Health | System Builder | LoFi Coder
 
 $ motto
 > Build better systems. Build a better self.
