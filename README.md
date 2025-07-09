@@ -2,7 +2,7 @@
 
 <h1 align="center">✨ IsoBliss ✨</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=435&pause=1000&center=true&width=435&lines=Building+Mind+City....;Gamified+Progress;Dev+%7C+Creative+%7C+Focused+Growth" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=435&pause=1000&center=true&vCenter=true&width=435&lines=Building+Mind+City....;Gamified+Progress;Dev+%7C+Creative+%7C+Focused+Growth" alt="Typing SVG"/>
 </p>
 
 <p align="center">
